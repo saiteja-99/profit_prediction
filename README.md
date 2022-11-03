@@ -1,3 +1,3 @@
 # profit_prediction
-USE FOR PREDICTION
+FOR PREDICTION
 https://profitestimator.herokuapp.com/
